@@ -1,3 +1,7 @@
+AI Build Browsers:
+https://lemon-campus-nav-go.base44.app/
+https://mighty-campus-nav-go.base44.app/AIAssistant
+http://127.0.0.1:3000/chat
 🎓 Campus Buddy
 The Smart Digital Companion for College Campuses
 
