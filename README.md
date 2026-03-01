@@ -89,3 +89,42 @@ AI Integration:
 OpenAI API (RAG-based document retrieval)
 
 Vector database for document embeddings
+How It Works
+
+Admin uploads official college documents.
+
+Documents are stored securely and embedded for AI retrieval.
+
+Students ask questions through chatbot.
+
+AI responds only using verified uploaded documents.
+
+Complaints and resources are managed via dashboard.
+
+🎯 Problem It Solves
+
+Reduces repetitive administrative workload
+
+Centralizes academic information
+
+Increases transparency in issue handling
+
+Encourages collaboration among students
+
+Digitizes campus ecosystem
+
+📈 Future Enhancements
+
+Attendance integration
+
+Event management system
+
+Mobile app version
+
+Push notifications
+
+AI-based performance insights
+
+💡 Vision
+
+“Campus Buddy is not just a chatbot — it is a complete Digital Campus Ecosystem.”
